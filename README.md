@@ -1,16 +1,6 @@
 # Mini Katalog Uygulaması
 
 <p align="center">
-  <img src="screenshots/splash.png" width="200" alt="Splash Screen"/>
-  &nbsp;&nbsp;
-  <img src="screenshots/ana_sayfa.png" width="200" alt="Ana Sayfa"/>
-  &nbsp;&nbsp;
-  <img src="screenshots/ürün_detay_1.png" width="200" alt="Ürün Detay"/>
-  &nbsp;&nbsp;
-  <img src="screenshots/sepet.png" width="200" alt="Sepet"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Flutter-3.44.1-02569B?style=flat&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-3.x-0175C2?style=flat&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-Destekleniyor-3DDC84?style=flat&logo=android&logoColor=white"/>
