@@ -14,6 +14,9 @@
 
 **Mini Katalog Uygulaması**, [FakeStore API](https://fakestoreapi.com/) üzerinden gerçek zamanlı ürün verisi çeken, modern ve kullanışlı bir Flutter e-ticaret katalog uygulamasıdır. Yalnızca `material.dart` kütüphanesi kullanılarak geliştirilmiştir.
 
+> [!NOTE]
+> Bu proje kapsamında dışarıdan hiçbir üçüncü parti paket (kütüphane) kullanılmamıştır. Tüm veri iletişimi, arayüz bileşenleri ve yönetim yapısı tamamen Flutter/Dart çekirdek kütüphaneleri (`dart:io` ve `material.dart`) ile geliştirilmiştir.
+
 ---
 
 ## 📸 Ekran Görüntüleri
